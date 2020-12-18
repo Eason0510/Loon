@@ -21,10 +21,10 @@
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
-#2. ❗️ Closed issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
-#3. ❗️ Opened issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
-#4. ❗️ Closed issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
-#5. ❗️ Opened issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
+2. ❗️ Closed issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
+3. ❗️ Opened issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
+4. ❗️ Closed issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
+5. ❗️ Opened issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
 <!--END_SECTION:activity-->
 
 ✨<img align="right" src="http://profile-counter.glitch.me/Eason0510/count.svg"/>
