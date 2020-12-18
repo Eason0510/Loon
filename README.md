@@ -6,9 +6,9 @@
   <p>
     <a href="https://t.me/Violettoy_bot"><img src="https://img.shields.io/badge/Telegram-%2352A4DB.svg?&style=social&logo=telegram&logoColor=white" /></a>
     </br>
-    <img src="https://github.com/lowking/lowking/workflows/Waka%20Readme/badge.svg" />
+    <img src="https://github.com/Eason0510/Loon/workflows/Waka%20Readme/badge.svg" />
     </br>
-    <img src="https://github.com/lowking/lowking/workflows/Activity%20Readme/badge.svg" />
+    <img src="https://github.com/Eason0510/Loon/workflows/Activity%20Readme/badge.svg" />
   </p>
   </br>
   </br>
@@ -20,14 +20,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/lowking/Scripts/issues/11) in [lowking/Scripts](https://github.com/lowking/Scripts)
-2. ❗️ Closed issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
-3. ❗️ Opened issue [#10](https://github.com/lowking/Scripts/issues/10) in [lowking/Scripts](https://github.com/lowking/Scripts)
-4. ❗️ Closed issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
-5. ❗️ Opened issue [#9](https://github.com/lowking/Scripts/issues/9) in [lowking/Scripts](https://github.com/lowking/Scripts)
+1. ❗️ Opened issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
+2. ❗️ Closed issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
+3. ❗️ Opened issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
+4. ❗️ Closed issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
+5. ❗️ Opened issue [Loon](https://github.com/Eason0510/Loon) in [Eason0510/Loon](https://github.com/Eason0510/Loon)
 <!--END_SECTION:activity-->
 
-✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
+✨<img align="right" src="http://profile-counter.glitch.me/Eason0510/count.svg"/>
 
 
 
